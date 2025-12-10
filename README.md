@@ -1,55 +1,21 @@
 # FROGQUEST
 <img src="Assets/Sprites/Menus/bg menu.png">
-<br>
+FrogQuest is a 2D single-player platformer set in a fantastical, puzzle-driven world.
+The game follows a frog from a village devoted to a mysterious god. Chosen to embark on a sacred quest, the frog must overcome challenges and puzzles to free their village.
 
-This is a demo of FrogQuest, a 2D single-player platformer set in a fantastical, puzzle-driven world.
-The story follows a frog from a village devoted to a mysterious god. Chosen to achieve a sacred quest, they must overcome challenges to free their village.
+This is a demo version of the game, created using Unity.
 
-## Sprites
-- [X] Menu
-  - Background
-  - Buttons
-- [X] Backgrounds
-- [X] Objects
-  - Collect
-  - Grab
-  - Checkpoints
-  - Inventory
-  - Doors
-  - Interactif
-- [X] Player/NPC
-- [X] Animations
-  - Player/NPC
-  - Objects
-- [X] Tilset
-<br>
+## Installation & Starting the Game
 
-## Sounds
-- [X] Music
-- [X] SFX
-<br>
+- Download the project folder.
+- Open it in Unity (or any local game development server).
+- Launch the scene to start playing.
 
-## Scene
-- [X] Menu
-- [X] Play
-<br>
+## Features
 
-## Scripts
-- [X] Camera
-  - Parallax
-  - Player
-- [X] Controllers
-  - Controllers
-  - Crouch
-  - Grab
-  - Health
-  - Tongue
-- [X] Interations
-  - Objects
-  - NPC
-  - Animations
-- [X] Managers
-- [X] Menus
-  - Pause
-  - Start
-  - GameOver
+- 2D platforming with puzzle-solving elements
+- A mystical world with unique challenges
+- Single-player adventure with a story-driven quest
+
+## Authors
+@Leogeox
