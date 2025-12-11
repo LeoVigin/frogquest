@@ -7,7 +7,10 @@ This is a demo version of the game, created using Unity.
 
 ## Installation & Starting the Game
 
-- Download the project folder.
+- Download the project folder or use
+``` php
+git clone https://github.com/LeoVigin/frogquest.git
+```
 - Open it in Unity (or any local game development server).
 - Launch the scene to start playing.
 
