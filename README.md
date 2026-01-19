@@ -21,4 +21,4 @@ git clone https://github.com/LeoVigin/frogquest.git
 - Single-player adventure with a story-driven quest
 
 ## Authors
-@Leogeox
+@LeoVigin
